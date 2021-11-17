@@ -4,3 +4,9 @@ Magma Runner is a small game I worked on to get comfortable with using pygame sp
  Main file is MagmaRunner.pyw.
 Linux executable present.
 for Windows executable: https://drive.google.com/file/d/1MYgWz4DQDB1RL1Vu5wFpgOtNwzkhxNcO/view?usp=sharing
+
+--------------------Credits------------------------
+Developer: VantaTree
+Gameplay-Tester:  Raoul Graf
+
+Special Thanks to Raoul Graf for being in the jouney.
