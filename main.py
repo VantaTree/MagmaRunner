@@ -499,7 +499,7 @@ class MainMenu:
 
 
 pygame.init()
-screen = pygame.display.set_mode((800, 600))
+screen = pygame.display.set_mode((800, 600), pygame.FULLSCREEN|pygame.SCALED)
 clock = pygame.time.Clock()
 pygame.display.set_caption('Magma Runner')
 game_icon = pygame.image.load('graphics/others/magma.png').convert_alpha()
